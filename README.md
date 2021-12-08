@@ -1,5 +1,7 @@
 # Socioeconomic Data from Albany, NY - Analysis
 
+These files are the results of a project I was assigned.  An anonymized version of our slides is included. My contributions come from the following analysis.
+
 You'll find an ipynb file for:
 - Decision Tree Classification (poor results, sadly),
 - KNN Classification (some encouraging results), and
